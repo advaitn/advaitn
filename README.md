@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=advaitn&label=Profile%20views&color=0e75b6&style=flat" alt="advaitn" /> </p>
 
-- 📝 I regularly write articles on [advaitnandeshwar.com/blog](advaitnandeshwar.com/blog)
+- 📝 I regularly write articles on [advaitnandeshwar.com/blog](https://advaitnandeshwar.com/blog)
 
 - 💬 Ask me about **WordPress**
 
 - 📫 How to reach me **hi@advaitnandeshwar.com**
 
-- 📄 Know about my experiences [advaitnandeshwar.com/resume](advaitnandeshwar.com/resume)
+- 📄 Know about my experiences [advaitnandeshwar.com/resume](https://advaitnandeshwar.com/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
